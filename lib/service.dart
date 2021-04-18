@@ -1,0 +1,24 @@
+const String baseUrl = 'http://hemantgupta.tech/';
+
+const String checkMobile = baseUrl + 'checkmob';
+const String addMobile = baseUrl + 'addmob';
+const String updateToken = baseUrl + 'updatetoken';
+const String addUser = baseUrl + 'adduser';
+const String updateUser = baseUrl + 'updateuser';
+const String showUser = baseUrl + 'showuser';
+const String showPaperType = baseUrl + 'showpapertype';
+const String showPaperDetails = baseUrl + 'showpaperdetails';
+const String showLatestPaper = baseUrl + 'showlatestpaper';
+const String addResult = baseUrl + 'addresult';
+const String showUserResult = baseUrl + 'showuserresult';
+const String showNotes = baseUrl + 'shownotess';
+const String showAllResult = baseUrl + 'showallresult';
+const String showResult = baseUrl + 'showresult';
+const String addPay = baseUrl + 'addpayy';
+const String showPay = baseUrl + 'showpayy';
+const String addTestBuy = baseUrl + 'addtestbuy';
+const String showTestBuy = baseUrl + 'showtestbuy';
+const String buyMembership = baseUrl + 'buymem';
+const String addBal = baseUrl + 'addbal';
+const String showNotification = baseUrl + 'shownotification';
+const String updateApplication = baseUrl + 'updateapp';
